@@ -67,4 +67,28 @@ git clone https://github.com/DanialRashid786/Cricket-Players-Stats-Analysis-Pyth
 
 ![App Screenshot](https://raw.githubusercontent.com/DanialRashid786/Cricket-Players-Stats-Analysis-Python-/master/Screenshot/1.png)
 
+![App Screenshot](https://raw.githubusercontent.com/DanialRashid786/Cricket-Players-Stats-Analysis-Python-/master/Screenshot/2.png)
+
+![App Screenshot](https://raw.githubusercontent.com/DanialRashid786/Cricket-Players-Stats-Analysis-Python-/master/Screenshot/3.png)
+
+![App Screenshot](https://raw.githubusercontent.com/DanialRashid786/Cricket-Players-Stats-Analysis-Python-/master/Screenshot/4.png)
+
+![App Screenshot](https://raw.githubusercontent.com/DanialRashid786/Cricket-Players-Stats-Analysis-Python-/master/Screenshot/5.png)
+
+![App Screenshot](https://raw.githubusercontent.com/DanialRashid786/Cricket-Players-Stats-Analysis-Python-/master/Screenshot/6.png)
+
+![App Screenshot](https://raw.githubusercontent.com/DanialRashid786/Cricket-Players-Stats-Analysis-Python-/master/Screenshot/7.png)
+
+![App Screenshot](https://raw.githubusercontent.com/DanialRashid786/Cricket-Players-Stats-Analysis-Python-/master/Screenshot/8.png)
+
+![App Screenshot](https://raw.githubusercontent.com/DanialRashid786/Cricket-Players-Stats-Analysis-Python-/master/Screenshot/9.png)
+
+![App Screenshot](https://raw.githubusercontent.com/DanialRashid786/Cricket-Players-Stats-Analysis-Python-/master/Screenshot/10.png)
+
+![App Screenshot](https://raw.githubusercontent.com/DanialRashid786/Cricket-Players-Stats-Analysis-Python-/master/Screenshot/11.png)
+
+![App Screenshot](https://raw.githubusercontent.com/DanialRashid786/Cricket-Players-Stats-Analysis-Python-/master/Screenshot/12.png)
+
+![App Screenshot](https://raw.githubusercontent.com/DanialRashid786/Cricket-Players-Stats-Analysis-Python-/master/Screenshot/13.png)
+
 
