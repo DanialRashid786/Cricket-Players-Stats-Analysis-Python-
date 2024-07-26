@@ -60,15 +60,10 @@ The dataset contains the following columns:
 ### Installation
 
 Clone the repository:
-```bash
 git clone https://github.com/DanialRashid786/Cricket-Players-Stats-Analysis-Python-.git
 
 
-
-
-
-
-## screenshot
+### screenshot
 
 ![App Screenshot](https://raw.githubusercontent.com/DanialRashid786/Cricket-Players-Stats-Analysis-Python-/master/Screenshot/1.png)
 
